@@ -1,4 +1,4 @@
-### Hi there 👋. This is my new account and new codes coming soon :)
+### Hi there 👋. This is my new account and new repos coming soon :)
 
 <!--
 **TheCiph3r/TheCiph3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
